@@ -25,5 +25,5 @@ The Maze Chase is a puzzle game as well as a CTF challenge for Mathematical mind
 
 After that all the player has to do is to find the smallest path to go from the starting point to the finish point covering all the checkpoints atleast once. This can be done using PRIM's ALGORITHM which will yield these 2 possible solutions, both of which will give you the flag in flag.txt file.
 
-The Solution paths are:
+The Solution paths are:<br/>
 0->2->0->1->3->6->3->4->3->7->5->7->8  and  0->2->0->1->3->4->3->6->3->7->5->7->8
