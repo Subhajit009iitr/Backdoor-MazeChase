@@ -20,7 +20,7 @@ On choosing the wrong path in the game the flag.txt file will display "Not the R
 To know the solution check the Solution below.
 
 # Solution of Maze Chase
-The Maze Chase is a puzzle game as well as a CTF challenge for Mathematical minds who are expert at finding patterns. Here, after traversing the map a few times the player is supposed to draw a map with its given Distances between checkpoints whose top view would look like this
+The Maze Chase is a puzzle game as well as a CTF challenge for Mathematical minds who are expert at finding patterns. Here, after traversing the map a few times the player is supposed to draw a map with its given Distances between checkpoints whose top view would look like this->
 ![photo_2022-12-26_13-55-18](https://user-images.githubusercontent.com/99145719/209569745-928e6506-1234-4d5f-9aab-3b4d1242ac63.jpg)
 
 After that all the player has to do is to find the smallest path to go from the starting point to the finish point covering all the checkpoints atleast once. This can be done using PRIM's ALGORITHM which will yield these 2 possible solutions, both of which will give you the flag in flag.txt file.
